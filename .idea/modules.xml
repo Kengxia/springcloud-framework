@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-resources/cloud-authority/cloud-authority.iml" filepath="$PROJECT_DIR$/cloud-resources/cloud-authority/cloud-authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-resources/cloud-customer/cloud-customer.iml" filepath="$PROJECT_DIR$/cloud-resources/cloud-customer/cloud-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-getway/cloud-getway.iml" filepath="$PROJECT_DIR$/cloud-getway/cloud-getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-oauth2/cloud-oauth2.iml" filepath="$PROJECT_DIR$/cloud-oauth2/cloud-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-resources/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-resources/cloud-provider/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-resources/cloud-provider1/cloud-provider1.iml" filepath="$PROJECT_DIR$/cloud-resources/cloud-provider1/cloud-provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-resources/cloud-resources.iml" filepath="$PROJECT_DIR$/cloud-resources/cloud-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-framework.iml" filepath="$PROJECT_DIR$/springcloud-framework.iml" />
+    </modules>
+  </component>
+</project>
